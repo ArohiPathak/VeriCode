@@ -11,15 +11,12 @@ VeriCode — a modern QR Code Generator that does more than just make QR codes! 
   - Smart and Modern Interface – Enjoy a clean, scrollable UI with light/dark mode, file uploads, and QR scanning support—all designed with ttkbootstrap for a smooth experience.
 <br>
 <br>
+# 🎥 Demo Video
 
-# 🎥 Screenshots and demo video
+#  Screenshots  
 ![lightmode](https://github.com/user-attachments/assets/1417c9d9-aad8-44af-9ab4-f4a28f4abc71)
 ![darkmode](https://github.com/user-attachments/assets/8ee09e0d-0d18-4772-8fcd-b7c89f46aebf)
 ![gqr](https://github.com/user-attachments/assets/5069af39-074d-4ca3-b203-49497b2a15c0)
-
-
-
-
 <br>
 <br>
 
