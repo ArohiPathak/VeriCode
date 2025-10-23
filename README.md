@@ -12,6 +12,17 @@ VeriCode — a modern QR Code Generator that does more than just make QR codes! 
 <br>
 <br>
 
+# 🎥 Screenshots and demo video
+![lightmode](https://github.com/user-attachments/assets/1417c9d9-aad8-44af-9ab4-f4a28f4abc71)
+![darkmode](https://github.com/user-attachments/assets/8ee09e0d-0d18-4772-8fcd-b7c89f46aebf)
+![gqr](https://github.com/user-attachments/assets/5069af39-074d-4ca3-b203-49497b2a15c0)
+
+
+
+
+<br>
+<br>
+
 # 🧠 Tech Stack
 
 | Category             | Technologies Used                    |
